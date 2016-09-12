@@ -1,0 +1,23 @@
+{
+  "name": "tawk.to",
+  "version": "1.0.0",
+  "description": "tawk.to is a free messaging app that lets you monitor and chat with visitors on your website or from a free customizable page",
+  "main": "index.js",
+  "author": "Nick Bouwhuis <me@nickbouwhuis.nl>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://dashboard.tawk.to/",
+    "serviceName": "tawk.to",
+    "message": "Message Your Visitors in Real Time",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}

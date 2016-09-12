@@ -1,0 +1,23 @@
+{
+  "name": "IRC",
+  "version": "1.0.0",
+  "description": "IRC Web Client",
+  "main": "index.js",
+  "author": "Nick Bouwhuis <me@nickbouwhuis.nl>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://irc.bouwhuis.xyz",
+    "serviceName": "IRC",
+    "message": "Self-hosted IRC.",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
