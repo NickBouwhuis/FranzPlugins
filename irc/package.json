@@ -6,7 +6,7 @@
   "author": "Nick Bouwhuis <me@nickbouwhuis.nl>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://irc.bouwhuis.xyz",
+    "serviceURL": "https://<your-url>",
     "serviceName": "IRC",
     "message": "Self-hosted IRC.",
     "popup": [],
